@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "844676104535",
+    "firebase_url": "https://rn-german-vocabulary.firebaseio.com",
+    "project_id": "rn-german-vocabulary",
+    "storage_bucket": "rn-german-vocabulary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844676104535:android:ac8b77088e6d30b47ebe12",
+        "android_client_info": {
+          "package_name": "com.rngermanvocabulary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844676104535-qr3e8212tld8c28ff6gopdprgmguh8ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0HygAFBnXxXDq0adBR6SckmE0HHQ7IDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844676104535-qr3e8212tld8c28ff6gopdprgmguh8ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
